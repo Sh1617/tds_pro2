@@ -1,3 +1,15 @@
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+# "httpx",
+# "pandas",
+# "matplotlib",
+# "requests",
+# "seaborn",
+# "charset_normalizer",
+# "chardet",
+# ]
+# ///
 
 import os
 import sys
